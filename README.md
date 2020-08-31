@@ -1,4 +1,3 @@
-# machine-learning
 # VIRGINIA CAR CRASH ANALYSIS FOR AUTOMATED DRIVING
 
 *Final project for CS 4774 (Spring 2020)*
